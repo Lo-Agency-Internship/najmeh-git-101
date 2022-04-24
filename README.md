@@ -17,6 +17,5 @@
 | Words | explanation|
 | :------------ |:---------------:|
 |**clone**|clone means to download everything in the repository after cloning you can do whatever changes you like and then pull the changes back to the repository.|
-|**rebase**| Rebasing is the process of moving or combining a sequence of commits to a new base commit that means Edit previous commit messages. Combine multiple commits into one.|
-Cherry picking is the act of picking a commit from a branch and applying it to another
+|**rebase**| Rebasing is the process of moving or combining a sequence of commits to a new base commit that  means Edit previous commit messages. Combine multiple commits into one.|
 |**cherrypick**|Cherry picking is the act of picking a commit from a branch and applying it to another and can be useful for undoing changes. .|
